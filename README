@@ -1,0 +1,7 @@
+This repo has a bunch of scripts written for Adobe Photoshop and InDesign I wrote a few years back.
+
+They were written to work with CS2 but barring any serious design changes from Adobe, they should work on all CS versions. They were also written on/for Windows but should work on OS X as well.
+
+Add the file to the appropriate application's scripts folder and then execute from the Scripts/Automation Window.
+
+For more about Adobe Scripting visit http://www.adobe.com/denet/scripting.html
