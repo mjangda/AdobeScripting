@@ -1,0 +1,15 @@
+# Comments are preceeded by a #
+# This file is used to associate mapping paragraph styles to XML tags
+# Please use the following format for mapping:
+# [Name of Paragraph Style];;[Name of XML Tag]
+#
+# e.g.: if the paragraph style is name "Large Headline" and the associated XML tag is to named "Headline"
+# 		Large Headline//headline
+#
+# Note: XML tag names cannot have spaces in them
+
+Byline name||bylineName
+Byline title||bylineTitle
+Copy: first paragraph||copy
+Copy: regular||copy
+Headline||headline
