@@ -5,3 +5,5 @@ They were written to work with CS2 but barring any serious design changes from A
 Add the file to the appropriate application's scripts folder and then execute from the Scripts/Automation Window.
 
 For more about Adobe Scripting visit http://www.adobe.com/denet/scripting.html
+
+License for all scripts in this repo: MIT License (http://www.opensource.org/licenses/mit-license.php)
